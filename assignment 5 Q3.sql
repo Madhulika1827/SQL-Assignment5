@@ -1,0 +1,1 @@
+SELECT * FROM worker WHERE emailid NOT LIKE '[0-9a-zA-Z]%@%.%'
